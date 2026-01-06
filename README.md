@@ -1,4 +1,4 @@
-Esta app permite crear, leer, actualizar y eliminar datos de forma sencilla, y es una excelente opción para quienes quieran aprender sobre la creación de APIs con Laravel. 🎉
+Esta aplicación permite crear, leer, actualizar y eliminar datos de forma sencilla, y es una excelente opción para quienes quieran aprender sobre la creación de APIs con Laravel. 🎉
 
 
 https://drive.google.com/file/d/1v0oMNWumz2aHb67MymWNTrry0MPy3Gds/view?usp=sharing
